@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="254e3cef-7c19-40d8-a79f-c9c8c9339c48" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/celerybeat-schedule" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/migrations/versions/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/images/cc/american-express.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/images/cc/diners-club.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/images/cc/discover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/images/cc/jcb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/images/cc/mastercard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/images/cc/visa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/images/snake-eyes-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/images/snake-eyes.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/images/spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/translations/es/LC_MESSAGES/messages.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/translations/kl/LC_MESSAGES/messages.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.dockerignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.env" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/SaaS_Flask.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/preferred-vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dockerfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SnakeEyes_CLI.egg-info/PKG-INFO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SnakeEyes_CLI.egg-info/SOURCES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SnakeEyes_CLI.egg-info/dependency_links.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SnakeEyes_CLI.egg-info/entry_points.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SnakeEyes_CLI.egg-info/requires.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SnakeEyes_CLI.egg-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alembic.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babel.cfg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cli/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cli/cli.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cli/commands/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cli/commands/cmd_add.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cli/commands/cmd_babel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cli/commands/cmd_cov.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cli/commands/cmd_db.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cli/commands/cmd_flake8.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cli/commands/cmd_loc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cli/commands/cmd_routes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cli/commands/cmd_secret.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cli/commands/cmd_stripe.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cli/commands/cmd_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/gunicorn.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker-compose.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/instance/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/instance/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/instance/settings.py.production_example" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/flask_mailplus.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/locale.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/money.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/safe_next_url.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/util_datetime.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/util_json.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/util_sqlalchemy.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/util_wtforms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/requirements.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/app.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/admin/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/admin/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/admin/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/admin/templates/admin/_menu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/admin/templates/admin/coupon/_form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/admin/templates/admin/coupon/edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/admin/templates/admin/coupon/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/admin/templates/admin/coupon/new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/admin/templates/admin/invoice/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/admin/templates/admin/page/dashboard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/admin/templates/admin/user/_form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/admin/templates/admin/user/edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/admin/templates/admin/user/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/admin/templates/admin/user/new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/admin/templates/macros/user.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/admin/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/bet/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/bet/decorators.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/bet/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/bet/models/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/bet/models/bet.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/bet/models/coin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/bet/models/dice.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/bet/templates/bet/history.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/bet/templates/bet/place_bet.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/bet/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/decorators.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/gateways/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/gateways/stripecom.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/models/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/models/coupon.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/models/credit_card.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/models/invoice.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/models/subscription.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/tasks.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/template_processors.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/templates/billing/billing_details.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/templates/billing/cancel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/templates/billing/macros/billing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/templates/billing/payment_method.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/templates/billing/pricing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/templates/billing/purchase_coins.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/views/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/views/billing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/views/stripe_webhook.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/contact/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/contact/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/contact/tasks.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/contact/templates/contact/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/contact/templates/contact/mail/index.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/contact/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/page/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/page/templates/page/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/page/templates/page/privacy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/page/templates/page/terms.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/page/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/user/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/user/decorators.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/user/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/user/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/user/tasks.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/user/templates/user/begin_password_reset.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/user/templates/user/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/user/templates/user/mail/password_reset.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/user/templates/user/password_reset.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/user/templates/user/settings.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/user/templates/user/signup.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/user/templates/user/update_credentials.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/user/templates/user/update_locale.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/user/templates/user/welcome.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/user/validations.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/user/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/extensions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/migrations/env.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/migrations/script.py.mako" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/scripts/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/scripts/vendor/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/scripts/vendor/eonasdan-bootstrap-datetimepicker.4.14.30.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/scripts/vendor/moment.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/styles/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/styles/vendor/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/styles/vendor/eonasdan-bootstrap-datetimepicker.4.13.30.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/styles/vendor/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/templates/errors/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/templates/errors/429.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/templates/errors/500.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/templates/layouts/app.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/templates/layouts/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/templates/layouts/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/templates/macros/flash.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/templates/macros/form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/templates/macros/items.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/admin/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/admin/test_models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/admin/test_views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/bet/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/bet/test_models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/bet/test_views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/billing/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/billing/test_models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/billing/test_views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/conftest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/contact/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/contact/test_tasks.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/contact/test_views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/page/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/page/test_views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/user/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/user/test_models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/user/test_tasks.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/user/test_views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/translations/es/LC_MESSAGES/messages.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/translations/kl/LC_MESSAGES/messages.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/translations/messages.pot" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.idea/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="env.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/snakeeyes/migrations/env.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/snakeeyes/blueprints/admin/templates/macros/user.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="docker-compose.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/snakeeyes/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="137" column="30" lean-forward="false" selection-start-line="137" selection-start-column="25" selection-end-line="137" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/snakeeyes/blueprints/admin/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-996">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#106#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/snakeeyes/blueprints/admin/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/snakeeyes/blueprints/user/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/snakeeyes/blueprints/user/templates/user/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-832">
+              <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/instance/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>register_blueprint</find>
+      <find>admin</find>
+      <find>login</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/snakeeyes/app.py" />
+        <option value="$PROJECT_DIR$/config/settings.py" />
+        <option value="$PROJECT_DIR$/instance/settings.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SaaS_Flask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SaaS_Flask" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SaaS_Flask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SaaS_Flask" type="462c0819:PsiDirectoryNode" />
+              <item name="cli" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SaaS_Flask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SaaS_Flask" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SaaS_Flask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SaaS_Flask" type="462c0819:PsiDirectoryNode" />
+              <item name="instance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SaaS_Flask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SaaS_Flask" type="462c0819:PsiDirectoryNode" />
+              <item name="snakeeyes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="254e3cef-7c19-40d8-a79f-c9c8c9339c48" name="Default" comment="" />
+      <created>1511318504520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511318504520</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23988095" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/gunicorn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/flask_mailplus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-143">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/util_datetime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/safe_next_url.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/money.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snakeeyes/migrations/script.py.mako">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snakeeyes/migrations/env.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snakeeyes/blueprints/admin/templates/macros/user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snakeeyes/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="137" column="30" lean-forward="false" selection-start-line="137" selection-start-column="25" selection-end-line="137" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snakeeyes/blueprints/admin/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-996">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#106#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snakeeyes/blueprints/admin/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snakeeyes/blueprints/user/templates/user/mail/password_reset.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snakeeyes/blueprints/user/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snakeeyes/blueprints/user/templates/user/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-832">
+          <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instance/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
