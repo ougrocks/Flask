@@ -2,195 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="254e3cef-7c19-40d8-a79f-c9c8c9339c48" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/celerybeat-schedule" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/migrations/versions/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/images/cc/american-express.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/images/cc/diners-club.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/images/cc/discover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/images/cc/jcb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/images/cc/mastercard.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/images/cc/visa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/images/snake-eyes-large.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/images/snake-eyes.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/images/spinner.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/translations/es/LC_MESSAGES/messages.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/translations/kl/LC_MESSAGES/messages.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.dockerignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.env" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/SaaS_Flask.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/preferred-vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dockerfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SnakeEyes_CLI.egg-info/PKG-INFO" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SnakeEyes_CLI.egg-info/SOURCES.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SnakeEyes_CLI.egg-info/dependency_links.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SnakeEyes_CLI.egg-info/entry_points.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SnakeEyes_CLI.egg-info/requires.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SnakeEyes_CLI.egg-info/top_level.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alembic.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babel.cfg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cli/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cli/cli.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cli/commands/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cli/commands/cmd_add.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cli/commands/cmd_babel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cli/commands/cmd_cov.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cli/commands/cmd_db.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cli/commands/cmd_flake8.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cli/commands/cmd_loc.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cli/commands/cmd_routes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cli/commands/cmd_secret.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cli/commands/cmd_stripe.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cli/commands/cmd_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/gunicorn.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker-compose.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/instance/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/instance/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/instance/settings.py.production_example" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/flask_mailplus.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/locale.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/money.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/safe_next_url.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/util_datetime.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/util_json.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/util_sqlalchemy.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/util_wtforms.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/requirements.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/setup.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/app.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/admin/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/admin/forms.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/admin/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/admin/templates/admin/_menu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/admin/templates/admin/coupon/_form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/admin/templates/admin/coupon/edit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/admin/templates/admin/coupon/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/admin/templates/admin/coupon/new.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/admin/templates/admin/invoice/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/admin/templates/admin/page/dashboard.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/admin/templates/admin/user/_form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/admin/templates/admin/user/edit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/admin/templates/admin/user/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/admin/templates/admin/user/new.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/admin/templates/macros/user.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/admin/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/bet/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/bet/decorators.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/bet/forms.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/bet/models/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/bet/models/bet.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/bet/models/coin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/bet/models/dice.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/bet/templates/bet/history.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/bet/templates/bet/place_bet.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/bet/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/decorators.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/forms.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/gateways/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/gateways/stripecom.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/models/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/models/coupon.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/models/credit_card.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/models/invoice.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/models/subscription.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/tasks.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/template_processors.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/templates/billing/billing_details.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/templates/billing/cancel.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/templates/billing/macros/billing.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/templates/billing/payment_method.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/templates/billing/pricing.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/templates/billing/purchase_coins.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/views/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/views/billing.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/billing/views/stripe_webhook.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/contact/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/contact/forms.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/contact/tasks.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/contact/templates/contact/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/contact/templates/contact/mail/index.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/contact/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/page/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/page/templates/page/home.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/page/templates/page/privacy.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/page/templates/page/terms.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/page/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/user/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/user/decorators.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/user/forms.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/user/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/user/tasks.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/user/templates/user/begin_password_reset.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/user/templates/user/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/user/templates/user/mail/password_reset.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/user/templates/user/password_reset.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/user/templates/user/settings.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/user/templates/user/signup.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/user/templates/user/update_credentials.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/user/templates/user/update_locale.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/user/templates/user/welcome.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/user/validations.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/blueprints/user/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/extensions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/migrations/env.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/migrations/script.py.mako" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/scripts/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/scripts/vendor/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/scripts/vendor/eonasdan-bootstrap-datetimepicker.4.14.30.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/scripts/vendor/moment.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/styles/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/styles/vendor/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/styles/vendor/eonasdan-bootstrap-datetimepicker.4.13.30.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/static/styles/vendor/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/templates/errors/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/templates/errors/429.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/templates/errors/500.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/templates/layouts/app.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/templates/layouts/base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/templates/layouts/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/templates/macros/flash.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/templates/macros/form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/templates/macros/items.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/admin/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/admin/test_models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/admin/test_views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/bet/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/bet/test_models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/bet/test_views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/billing/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/billing/test_models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/billing/test_views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/conftest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/contact/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/contact/test_tasks.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/contact/test_views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/page/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/page/test_views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/user/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/user/test_models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/user/test_tasks.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/tests/user/test_views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/translations/es/LC_MESSAGES/messages.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/translations/kl/LC_MESSAGES/messages.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snakeeyes/translations/messages.pot" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -425,6 +241,14 @@
       <option name="presentableId" value="Default" />
       <updated>1511318504520</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit.">
+      <created>1511321721227</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1511321721227</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -459,6 +283,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
